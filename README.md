@@ -1,6 +1,6 @@
 # Plain English Python Exception Analyzer
 
-**Course:** CSA2001 — Fundamentals in AI and ML | VIT Bhopal  
+**Course:** CSA2001 — Fundamentals in AI and ML  
 
 This is a Python debugging tool I built to help beginners understand runtime errors. Instead of just printing a standard Python traceback, this script reads the error and tries to explain what went wrong in plain English.
 
